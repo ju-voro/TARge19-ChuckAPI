@@ -1,0 +1,17 @@
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.exe
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.csprojAssemblyReference.cache
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.AssemblyInfoInputs.cache
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.AssemblyInfo.cs
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.deps.json
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.runtimeconfig.json
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.runtimeconfig.dev.json
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.dll
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\ChuckAPI.pdb
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.csproj.CopyComplete
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.dll
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\obj\Debug\netcoreapp3.1\ChuckAPI.pdb
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\julia.voronetskaja\source\repos\ChuckAPI\ChuckAPI\bin\Debug\netcoreapp3.1\Nancy.dll
